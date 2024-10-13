@@ -1,0 +1,18 @@
+h1,
+h2{
+  font-family: Georgia, Garamond;
+}
+
+h1{
+  font-size: 35px;
+  color: rebeccapurple;
+}
+
+h2{
+  font-size: 25px;
+}
+
+p,
+li{
+  font-family: Verdana, Helvetica;
+}
