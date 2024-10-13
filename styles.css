@@ -1,11 +1,18 @@
+.links a{
+  display: block;
+  font-size: 20px;
+  margin-bottom: 20px;
+}
+
 h1,
 h2{
   font-family: Georgia, Garamond;
 }
 
+
 h1{
   font-size: 35px;
-  color: rebeccapurple;
+  color: firebrick;
 }
 
 h2{
